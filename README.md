@@ -1,4 +1,4 @@
-# Bible_bot_Front-End
+# Bible_bot_Front-End :memo:
 ## 성서봇 2기 개발
 <img width="150" src="https://user-images.githubusercontent.com/72601028/107147111-a38b7e80-698f-11eb-8179-09cd16476d63.png">
 
