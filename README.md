@@ -5,6 +5,7 @@
 ### 2.1.0 -v
 
 #### 1.도서관 대출 목록, 추천도서 
+<img width="150" src="https://user-images.githubusercontent.com/72601028/107147527-ea7a7380-6991-11eb-8471-0d4b74daa030.png">
 
 #### 2.제휴업체지도
 
