@@ -1,4 +1,4 @@
-# bible_bot_Front_End :memo:
+# bible_bot_Front_End :newspaper:
 2기 성서봇 프론트엔드 개발자
 
 ## 성서봇 2.1.0
@@ -7,7 +7,7 @@
 ### 1.도서관 대출목록 및 추천도서 :book:
 ![1](https://user-images.githubusercontent.com/72601028/107149019-b99e3c80-6999-11eb-9962-b298f2b61082.PNG)
 
-### 2. 대학교 제휴업체 지도 :
+### 2. 대학교 제휴업체 지도 :memo: 
 ![2](https://user-images.githubusercontent.com/72601028/107149022-bc992d00-6999-11eb-8ea2-69aa24f3617a.PNG)
 
 ### 3. 마일리지 새로고침 :arrows_counterclockwise:
