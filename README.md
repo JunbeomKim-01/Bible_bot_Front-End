@@ -10,5 +10,5 @@
 #### 2.제휴업체지도
 ![2](https://user-images.githubusercontent.com/72601028/107147590-34635980-6992-11eb-88ff-4522ff097207.PNG)
 
-
 #### 3.마일리지 새로고침
+![3](https://user-images.githubusercontent.com/72601028/107147602-4644fc80-6992-11eb-98ca-0099ea250b66.PNG)
