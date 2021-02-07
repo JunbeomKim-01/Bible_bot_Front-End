@@ -1,14 +1,16 @@
-# Bible_bot_Front-End :memo:
-## 성서봇 2기 개발
-<img width="150" src="https://user-images.githubusercontent.com/72601028/107147111-a38b7e80-698f-11eb-8179-09cd16476d63.png">
+# bible_bot
 
-### 2.1.0 -v
+A new Flutter application.
 
-#### 1.도서관 대출 목록, 추천도서 📚
-![1](https://user-images.githubusercontent.com/72601028/107147625-62489e00-6992-11eb-834e-c5148f66539b.PNG)
+## Getting Started
 
-#### 2.제휴업체지도 🗺️
-![2](https://user-images.githubusercontent.com/72601028/107147590-34635980-6992-11eb-88ff-4522ff097207.PNG)
+This project is a starting point for a Flutter application.
 
-#### 3.마일리지 새로고침 :arrows_counterclockwise:
-![1-1](https://user-images.githubusercontent.com/72601028/107147527-ea7a7380-6991-11eb-8471-0d4b74daa030.PNG)
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
