@@ -1,7 +1,7 @@
 # bible_bot_Front_End :newspaper:
 2기 성서봇 프론트엔드 개발자
 
-## 성서봇 2.1.0
+## :rocket: 성서봇 2.1.0 :rocket:
 <img width="210" src="https://user-images.githubusercontent.com/72601028/107149089-1994e300-699a-11eb-8018-d6e278f2cfd5.png">
 
 ### 1.도서관 대출목록 및 추천도서 :book:
